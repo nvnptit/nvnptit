@@ -1,4 +1,4 @@
-# Hi there 👋. I'm `Nguyen Van Nhat`
+# Hi there 👋
 
 ![](./github-metrics.svg)
 
