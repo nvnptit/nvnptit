@@ -1,5 +1,8 @@
-![](./github-metrics.svg)
+<!-- ![](./github-metrics.svg) -->
 ![Nguyen Van Nhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvnptit&show_icons=true&bg_color=00000000)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=MobileGK17)](https://github.com/nvnptit/MobileGK17)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=MobileNT)](https://github.com/nvnptit/MobileNT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=LAPTOPNVN)](https://github.com/nvnptit/LAPTOPNVN)
 
 <!--
 # Hi there 👋
