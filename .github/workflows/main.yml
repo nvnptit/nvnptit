@@ -27,7 +27,7 @@ jobs:
           # Options
           user: NVNPTIT
           template: classic
-          base:  header, metadata #, activity, community, repositories,
+          base:  header, stats ,metadata #, activity, community, repositories,
           base_indepth: yes
           config_octicon: yes
           config_timezone: Asia/Ho_Chi_Minh
