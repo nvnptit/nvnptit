@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -->
 
 ## Visitors
-<img align="left" src = "https://profile-counter.glitch.me/nvnptit/count.svg" alt ="ALI">
+<img align="left" width="100" height="25" src = "https://profile-counter.glitch.me/nvnptit/count.svg" alt ="ALI">
