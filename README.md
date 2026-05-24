@@ -1,17 +1,23 @@
-<!--  ![](./github-metrics.svg) -->
-<!-- ![Nguyen Van Nhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvnptit&show_icons=true&theme=transparent) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=NNSCANNER)](https://github.com/nvnptit/NNSCANNER)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=LAPTOPNVN)](https://github.com/nvnptit/LAPTOPNVN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=MobileNT)](https://github.com/nvnptit/MobileNT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=MobileGK17)](https://github.com/nvnptit/MobileGK17)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=WebFastFood)](https://github.com/nvnptit/WebFastFood)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvnptit&repo=WEB_api_laptop)](https://github.com/nvnptit/WEB_API_LAPTOP)
+<!-- ![](./github-metrics.svg) -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nvnptit&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/nvnptit/NNSCANNER"><img src="https://readme-stats-github.pages.dev/api/repo?username=nvnptit&repo=NNSCANNER" alt="NNSCANNER repository card" /></a>
+  <a href="https://github.com/nvnptit/LAPTOPNVN"><img src="https://readme-stats-github.pages.dev/api/repo?username=nvnptit&repo=LAPTOPNVN" alt="LAPTOPNVN repository card" /></a>
+  <a href="https://github.com/nvnptit/MobileNT"><img src="https://readme-stats-github.pages.dev/api/repo?username=nvnptit&repo=MobileNT" alt="MobileNT repository card" /></a>
+  <a href="https://github.com/nvnptit/MobileGK17"><img src="https://readme-stats-github.pages.dev/api/repo?username=nvnptit&repo=MobileGK17" alt="MobileGK17 repository card" /></a>
+  <a href="https://github.com/nvnptit/WebFastFood"><img src="https://readme-stats-github.pages.dev/api/repo?username=nvnptit&repo=WebFastFood" alt="WebFastFood repository card" /></a>
+  <a href="https://github.com/nvnptit/WEB_API_LAPTOP"><img src="https://readme-stats-github.pages.dev/api/repo?username=nvnptit&repo=WEB_API_LAPTOP" alt="WEB_API_LAPTOP repository card" /></a>
+</p>
 
 <!--
 # Hi there 👋
-**nvnptit/nvnptit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nvnptit/nvnptit** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ideas:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,6 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Visitors
-<img align="left" width="100" height="25" src = "https://profile-counter.glitch.me/nvnptit/count.svg" alt ="ALI">
